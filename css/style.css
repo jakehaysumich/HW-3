@@ -59,11 +59,9 @@ border-width: 2px 5px 0px 0px;}
 
 footer{background-image: linear-gradient( to right, #0000, #0000ff, #0066ff, #000000);
 border: #ffff 5px solid;
-text-align: right;
-font-size: 20px;
-padding: 15px 15px 15px 0px;}
+text-align: right;}
 
-.footer p{font-size: 20px;
+footer p{font-size: 20px;
 padding: 15px 15px 15px 0px;}
 
 
